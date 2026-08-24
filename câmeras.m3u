@@ -3,21 +3,3 @@
 https://play.livebybit.com/v2/hls/b9cef7cf4c44cf4394bf.m3u8
 #EXTINF:-1 group-title="Câmeras Ao Vivo" tvg-logo="",Porto de Galinhas/PE
 https://play.livebybit.com/v2/hls/6e717b955e5ea4bf1c4b.m3u8
-#EXTINF:-1 group-title="Câmeras Ao Vivo" tvg-logo="",Bairro Aruana - Aracaju/SE
-https://streaming3.climaaovivo.com.br/climaaovivo/aracaju2.se/chunks.m3u8?nimblesessionid=3399922&wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDI2IDEyOjU4OjQyIEFNJmhhc2hfdmFsdWU9akkrNXA1aFJ5L0xCSTZiQVlpL2VOZz09JnZhbGlkbWludXRlcz01JmlkPXBsYXllci1DQVYtY2xpbWFhb3Zpdm8tYXJhY2FqdTIuc2VfMTc4NzEwMTQyMg%3D%3D
-#EXTINF:-1 group-title="Câmeras Ao Vivo" tvg-logo="",Porto Dantas - Aracaju/SE
-https://streaming3.climaaovivo.com.br/climaaovivo/aracaju1.se/chunks.m3u8?nimblesessionid=3400110&wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDI2IDE6MDA6MzEgQU0maGFzaF92YWx1ZT1VK3c3M2IydnNpWWczVk9WOXFvYmRnPT0mdmFsaWRtaW51dGVzPTUmaWQ9cGxheWVyLUNBVi1jbGltYWFvdml2by1hcmFjYWp1MS5zZV8xNzg3MTAxNTMx
-#EXTINF:-1 group-title="Câmeras Ao Vivo" tvg-logo="",Abaiara/CE
-https://streaming3.climaaovivo.com.br/climaaovivo/abaiara1.ce/chunks.m3u8?nimblesessionid=3400494&wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDI2IDE6MDQ6MDggQU0maGFzaF92YWx1ZT1vS3NsZUdrT3NrU1pCbkpYWWNQT3FRPT0mdmFsaWRtaW51dGVzPTUmaWQ9cGxheWVyLUNBVi1jbGltYWFvdml2by1hYmFpYXJhMS5jZV8xNzg3MTAxNzQ4
-#EXTINF:-1 group-title="Câmeras Ao Vivo" tvg-logo="",Açailândia/MA
-https://streaming3.climaaovivo.com.br/climaaovivo/acailandia1.ma/chunks.m3u8?nimblesessionid=3400704&wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDI2IDE6MDY6MTMgQU0maGFzaF92YWx1ZT1RVmpYQzdDa0hPb2JDK292dWZGWnd3PT0mdmFsaWRtaW51dGVzPTUmaWQ9cGxheWVyLUNBVi1jbGltYWFvdml2by1hY2FpbGFuZGlhMS5tYV8xNzg3MTAxODcz
-#EXTINF:-1 group-title="Câmeras Ao Vivo" tvg-logo="",Águas de Lindóia/SP
-https://streaming3.climaaovivo.com.br/climaaovivo/aguasdelindoia1.sp/chunks.m3u8?nimblesessionid=3400912&wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDI2IDE6MDg6MjUgQU0maGFzaF92YWx1ZT13V21nNkR4aTJlWkRldk9pdkVNaFhnPT0mdmFsaWRtaW51dGVzPTUmaWQ9cGxheWVyLUNBVi1jbGltYWFvdml2by1hZ3Vhc2RlbGluZG9pYTEuc3BfMTc4NzEwMjAwNQ%3D%3D
-#EXTINF:-1 group-title="Câmeras Ao Vivo" tvg-logo="",Alta Floresta/MT
-https://streaming3.climaaovivo.com.br/climaaovivo/altafloresta1.mt/chunks.m3u8?nimblesessionid=3401109&wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDI2IDE6MTA6MzYgQU0maGFzaF92YWx1ZT1kNFZaYkhKaFZacDhGZHB1eGhKcG1nPT0mdmFsaWRtaW51dGVzPTUmaWQ9cGxheWVyLUNBVi1jbGltYWFvdml2by1hbHRhZmxvcmVzdGExLm10XzE3ODcxMDIxMzY%3D
-#EXTINF:-1 group-title="Câmeras Ao Vivo" tvg-logo="",Andaraí/BA
-https://streaming3.climaaovivo.com.br/climaaovivo/andarai1.ba/chunks.m3u8?nimblesessionid=3401237&wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDI2IDE6MTI6MDMgQU0maGFzaF92YWx1ZT00UjQ0WDNEQzNiMWxOaUdNL2h6Rjl3PT0mdmFsaWRtaW51dGVzPTUmaWQ9cGxheWVyLUNBVi1jbGltYWFvdml2by1hbmRhcmFpMS5iYV8xNzg3MTAyMjIz
-#EXTINF:-1 group-title="Câmeras Ao Vivo" tvg-logo="",Angra dos Reis/RJ
-https://streaming3.climaaovivo.com.br/climaaovivo/angradosreis1.rj/chunks.m3u8?nimblesessionid=3401369&wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDI2IDE6MTM6MjQgQU0maGFzaF92YWx1ZT1iLzRDMkRUbDJ5YlRYWmhaY2ZhMlJBPT0mdmFsaWRtaW51dGVzPTUmaWQ9cGxheWVyLUNBVi1jbGltYWFvdml2by1hbmdyYWRvc3JlaXMxLnJqXzE3ODcxMDIzMDQ%3D
-#EXTINF:-1 group-title="Câmeras Ao Vivo" tvg-logo="",Arcos/MG
-https://streaming3.climaaovivo.com.br/climaaovivo/arcos1.mg/chunks.m3u8?nimblesessionid=3401479&wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDI2IDE6MTQ6MjQgQU0maGFzaF92YWx1ZT1CcWhURFBTWG5JSGk3QUNhdVVaSW5nPT0mdmFsaWRtaW51dGVzPTUmaWQ9cGxheWVyLUNBVi1jbGltYWFvdml2by1hcmNvczEubWdfMTc4NzEwMjM2NA%3D%3D
