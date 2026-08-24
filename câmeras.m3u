@@ -1,17 +1,15 @@
 #EXTM3U
-#EXTINF:-1 group-title="Câmeras Ao Vivo" tvg-logo="",Porto de Galinhas/PE
+#EXTINF:-1 group-title="Câmeras Ao Vivo" tvg-logo="",Praia/SC
 https://play.livebybit.com/v2/hls/37354bc04bc35b77491c.m3u8
-#EXTINF:-1 group-title="Câmeras Ao Vivo" tvg-logo="https://img.youtube.com/vi/5Xl6pSgiy3A/hqdefault.jpg",Ponte Hercílio Luz/SC
+#EXTINF:-1 group-title="Câmeras Ao Vivo" tvg-logo="",Ponte Hercílio Luz/SC
 https://play.livebybit.com/v2/hls/b9cef7cf4c44cf4394bf.m3u8
-#EXTINF:-1 group-title="Câmeras Ao Vivo" tvg-logo="", PRAIA/SC
+#EXTINF:-1 group-title="Câmeras Ao Vivo" tvg-logo="",Porto de Galinhas/PE
 https://play.livebybit.com/v2/hls/6e717b955e5ea4bf1c4b.m3u8
 #EXTINF:-1 group-title="Câmeras Ao Vivo" tvg-logo="",Lagoinha do Norte/SC
 https://play.livebybit.com/v2/hls/352a79e1a19a41c1ede8.m3u8
-#EXTINF:-1 group-title="Câmeras Ao Vivo" tvg-logo="",Canal da Barra da Lagoa/SC
+#EXTINF:-1 group-title="Câmeras Ao Vivo" tvg-logo="",Barra da Lagoa/SC
 https://play.livebybit.com/v2/hls/e68d607691dc13fa9f08.m3u8
-#EXTINF:-1 group-title="Câmeras Ao Vivo" tvg-logo="",Praia de Maracaipe
-Ipojuca - PE
+#EXTINF:-1 group-title="Câmeras Ao Vivo" tvg-logo="",Maracaipe/PE
 https://play.livebybit.com/v2/hls/f65117de8a0277e703ae.m3u8
-#EXTINF:-1 group-title="Câmeras Ao Vivo" tvg-logo="",Praia do Santinho
-Florianópolis/SC
+#EXTINF:-1 group-title="Câmeras Ao Vivo" tvg-logo="",Praia do Santinho/SC
 https://play.livebybit.com/v2/hls/ee4f712bd9b955d4aebc.m3u8
