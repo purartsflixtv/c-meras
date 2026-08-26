@@ -1,7 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="Câmeras" tvg-logo="",Praça Rubens Alves - Itajaí/SC
+#EXTINF:-1 group-title="Câmeras" tvg-logo="",Quadra Pista Skate - Taguaí/SP
+https://ipservice.aovivonanet.com.br:4433/hls/taguai-quadra-e-pista-de-skate/0/index.m3u8
+#EXTINF:-1 group-title="Câmeras" tvg-logo="",Praça Rubens Alves - Taguaí/SP
 https://ipservice.aovivonanet.com.br:4433/hls/taguai-praca-sao-gabriel-1/0/index.m3u8
-#EXTINF:-1 group-title="Câmeras" tvg-logo="",Praça Angelo Globo - Itajaí/SC
+#EXTINF:-1 group-title="Câmeras" tvg-logo="",Praça Angelo Globo - Taguaí/SP
 https://ipservice.aovivonanet.com.br:4433/hls/taguai-praca-angelo-globo/0/index.m3u8
 #EXTINF:-1 group-title="Câmeras" tvg-logo="",Matriz Ribeirão Preto/SP
 https://ipservice.aovivonanet.com.br:4433/hls/ribeirao-sul-matriz/0/index.m3u8
