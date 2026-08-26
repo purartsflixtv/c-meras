@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 group-title="Câmeras" tvg-logo="https://img.youtube.com/vi/6dp-bvQ7RWo/maxresdefault.jpg", Câmera Ao Vivo YouTube
-https://www.youtube.com/embed/6dp-bvQ7RWo?autoplay=1
+#EXTINF:-1 group-title="Câmeras" tvg-logo="",Entrada do Cristo Ribeirão Preto/SP
+https://ipservice.aovivonanet.com.br:4433/hls/ribeirao-sul-entrada-cristo/0/index.m3u8
 #EXTINF:-1 group-title="Câmeras Ao Vivo" tvg-logo="",Praia/SC
 https://play.livebybit.com/v2/hls/37354bc04bc35b77491c.m3u8
 #EXTINF:-1 group-title="Câmeras Ao Vivo" tvg-logo="",Ponte Hercílio Luz/SC
