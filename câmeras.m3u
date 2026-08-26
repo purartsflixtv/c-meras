@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 group-title="Câmeras" tvg-logo="",Gramado/RS
+https://tv.rbt.psi.br/media/n/BZmZntm1y2GZnJC0mtuW/a/BZmZntm1y2GZnJC0mtuW/720p/chunks.m3u8
+#EXTINF:-1 group-title="Câmeras" tvg-logo="",Canela/RS
+https://tv.rbt.psi.br/media/n/BZmZntm1y2GZnJK2mdCY/a/BZmZntm1y2GZnJK2mdCY/720p/chunks.m3u8
+#EXTINF:-1 group-title="Câmeras" tvg-logo="",Caxias do Sul/RS
+https://tv.rbt.psi.br/media/n/BZmZntmZy2GYnJu3otiY/a/BZmZntmZy2GYnJu3otiY/720p/chunks.m3u8
+#EXTINF:-1 group-title="Câmeras" tvg-logo="",Dois Irmãos/RS
+https://tv.rbt.psi.br/media/n/BZmZntm1y2GZmJiXotiX/a/BZmZntm1y2GZmJiXotiX/720p/chunks.m3u8
+#EXTINF:-1 group-title="Câmeras" tvg-logo="",Esteio/RS
+https://tv.rbt.psi.br/media/n/BZmZntmZy2GYmZm5nJe4/a/BZmZntmZy2GYmZm5nJe4/720p/chunks.m3u8
+#EXTINF:-1 group-title="Câmeras" tvg-logo="",Nova Petrópolis/RS
+https://tv.rbt.psi.br/media/n/BZmZntmZy2GYmZm5nJeZ/a/BZmZntmZy2GYmZm5nJeZ/720p/chunks.m3u8
 #EXTINF:-1 group-title="Câmeras" tvg-logo="",Cândido Mota/SP
 https://ipservice.aovivonanet.com.br:4433/hls/candido-mota-praca-igreja-popular/0/index.m3u8
 #EXTINF:-1 group-title="Câmeras" tvg-logo="",Cândido Mota/SP
