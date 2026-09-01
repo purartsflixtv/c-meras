@@ -1,4 +1,26 @@
 #EXTM3U
+#EXTINF:-1 group-title="Câmeras Ao Vivo" tvg-logo="", Esperança Feliz/MG
+https://1329.servicestream.io:8050/d693a675e25d.m3u8
+#EXTINF:-1 group-title="Câmeras Ao Vivo" tvg-logo="", Morro do Mendanha/GO
+https://5a7d54e35f9d2.streamlock.net/morromendanha1/morromendanha1.stream/chunklist_w1549237461.m3u8
+#EXTINF:-1 group-title="Câmeras Ao Vivo" tvg-logo="", Rua 9 - Setor Oeste/GO
+https://5a7d54e35f9d2.streamlock.net/r9oeste/r9oeste.stream/chunklist_w728998270.m3u8
+#EXTINF:-1 group-title="Câmeras Ao Vivo" tvg-logo="", Taquarituba/SP - Praça João Clímaco
+https://ipservice.aovivonanet.com.br:4433/hls/taqua-praca-joao-climaco/0/index.m3u8
+#EXTINF:-1 group-title="Câmeras Ao Vivo" tvg-logo="", Taquarituba/SP - Praça Nicanor
+https://ipservice.aovivonanet.com.br:4433/hls/taqua-praca-nicanor/0/index.m3u8
+#EXTINF:-1 group-title="Câmeras Ao Vivo" tvg-logo="", Sentido Paraguai/PR
+https://video02.logicahost.com.br/portaldacidade/fozpontedaintegracao.stream/chunklist_w1478221900.m3u8
+#EXTINF:-1 group-title="Câmeras Ao Vivo" tvg-logo="", Sentido Argentina/PR
+https://video02.logicahost.com.br/portaldacidade/fozpontetancredoneves.stream/chunklist_w907104664.m3u8
+#EXTINF:-1 group-title="Câmeras Ao Vivo" tvg-logo="", Piúma/ES
+https://connect-248.servicestream.io:8050/1369071b175e.m3u8
+#EXTINF:-1 group-title="Câmeras Ao Vivo" tvg-logo="", Piúma/ES
+https://connect-248.servicestream.io:8050/e94d2b556527.m3u8
+#EXTINF:-1 group-title="Câmeras Ao Vivo" tvg-logo="", Piúma/ES
+https://connect-248.servicestream.io:8050/d813607297a0.m3u8
+#EXTINF:-1 group-title="Câmeras Ao Vivo" tvg-logo="", Piúma/ES
+https://connect-248.servicestream.io:8050/9b7188c8abc5.m3u8
 #EXTINF:-1 group-title="Câmeras Ao Vivo" tvg-logo="", Roda Maceió
 https://5a8d73edc0407.streamlock.net/bnutv200/bnutv20005.stream/chunklist_w590832325.m3u8
 #EXTINF:-1 group-title="Câmeras Ao Vivo" tvg-logo="", Rio Itajaí-Açú - Blumenau
