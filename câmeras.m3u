@@ -33,12 +33,6 @@ https://5a8d73edc0407.streamlock.net/bnutv200/bnutv20008.stream/chunklist_w21376
 https://5a8d73edc0407.streamlock.net/bnutv200/bnutv20002.stream/chunklist_w1152110738.m3u8
 #EXTINF:-1 group-title="Câmeras Ao Vivo" tvg-logo="", FG Big Wheel - Balneário Camboriú
 https://5a8d73edc0407.streamlock.net/bnutv20/bnutv2021.stream/chunklist_w1670061880.m3u8
-#EXTINF:-1 group-title="Câmeras Ao Vivo" tvg-logo="", 28 de Março
-https://zm01.censanet.net.br/cgi-bin/zms?mode=jpeg&monitor=2&auth=68a9da6bd12407a061bad4f12bfc5f51
-#EXTINF:-1 group-title="Câmeras Ao Vivo" tvg-logo="", Beira Valão
-https://zm01.censanet.net.br/cgi-bin/zms?mode=jpeg&monitor=7&auth=68a9da6bd12407a061bad4f12bfc5f51
-#EXTINF:-1 group-title="Câmeras Ao Vivo" tvg-logo="", Formosa
-https://zm01.censanet.net.br/cgi-bin/zms?mode=jpeg&monitor=8&auth=68a9da6bd12407a061bad4f12bfc5f51
 #EXTINF:-1 group-title="Câmeras Ao Vivo" tvg-logo="", Caiana/MG
 https://1329.servicestream.io:8050/60d580d27a98.m3u8
 #EXTINF:-1 group-title="Câmeras" tvg-logo="",Porto de Sydney (Austrália)
