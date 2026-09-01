@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="Câmeras" tvg-logo="",Porto de Sydney (Austrália)
+https://www.youtube.com/embed/5uZa3-RMFos?autoplay=1
 #EXTINF:-1 group-title="Câmeras" tvg-logo="",Gramado/RS
 https://tv.rbt.psi.br/media/n/BZmZntm1y2GZnJC0mtuW/a/BZmZntm1y2GZnJC0mtuW/720p/chunks.m3u8
 #EXTINF:-1 group-title="Câmeras" tvg-logo="",Canela/RS
