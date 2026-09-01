@@ -1,4 +1,24 @@
 #EXTM3U
+#EXTINF:-1 group-title="Câmeras Ao Vivo" tvg-logo="", Roda Maceió
+https://5a8d73edc0407.streamlock.net/bnutv200/bnutv20005.stream/chunklist_w590832325.m3u8
+#EXTINF:-1 group-title="Câmeras Ao Vivo" tvg-logo="", Rio Itajaí-Açú - Blumenau
+https://5a8d73edc0407.streamlock.net/bnutv20/bnutv2004.stream/chunklist_w2079238599.m3u8
+#EXTINF:-1 group-title="Câmeras Ao Vivo" tvg-logo="", Roda Rico - São Paulo
+https://5a8d73edc0407.streamlock.net/bnutv200/bnutv20001.stream/chunklist_w1159427182.m3u8
+#EXTINF:-1 group-title="Câmeras Ao Vivo" tvg-logo="", Praça Parque Unipraias - Balneário Camboriú
+https://5a8d73edc0407.streamlock.net/bnutv200/bnutv20008.stream/chunklist_w2137665414.m3u8
+#EXTINF:-1 group-title="Câmeras Ao Vivo" tvg-logo="", Vista Barra Norte - Balneário Camboriú
+https://5a8d73edc0407.streamlock.net/bnutv200/bnutv20002.stream/chunklist_w1152110738.m3u8
+#EXTINF:-1 group-title="Câmeras Ao Vivo" tvg-logo="", FG Big Wheel - Balneário Camboriú
+https://5a8d73edc0407.streamlock.net/bnutv20/bnutv2021.stream/chunklist_w1670061880.m3u8
+#EXTINF:-1 group-title="Câmeras Ao Vivo" tvg-logo="", 28 de Março
+https://zm01.censanet.net.br/cgi-bin/zms?mode=jpeg&monitor=2&auth=68a9da6bd12407a061bad4f12bfc5f51
+#EXTINF:-1 group-title="Câmeras Ao Vivo" tvg-logo="", Beira Valão
+https://zm01.censanet.net.br/cgi-bin/zms?mode=jpeg&monitor=7&auth=68a9da6bd12407a061bad4f12bfc5f51
+#EXTINF:-1 group-title="Câmeras Ao Vivo" tvg-logo="", Formosa
+https://zm01.censanet.net.br/cgi-bin/zms?mode=jpeg&monitor=8&auth=68a9da6bd12407a061bad4f12bfc5f51
+#EXTINF:-1 group-title="Câmeras Ao Vivo" tvg-logo="", Caiana/MG
+https://1329.servicestream.io:8050/60d580d27a98.m3u8
 #EXTINF:-1 group-title="Câmeras" tvg-logo="",Porto de Sydney (Austrália)
 https://www.youtube.com/embed/5uZa3-RMFos?autoplay=1
 #EXTINF:-1 group-title="Câmeras" tvg-logo="",Gramado/RS
